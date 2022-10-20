@@ -40,9 +40,9 @@ const About = () => {
             </article>
           </div>
 
-        <p>
-        My name is Christian Carteno, I was born in raised Southern California
-        </p>
+        <p> My name is Christian Carteno, I am a freelance Fullstack WebDeveloper. Computers and the web have enthralled
+            me throughout my entire life. I love to create functional and optimized webistes. 
+            I want to help people establish a strong internet presence. </p>
         <a href="#contact" className='btn btn-primary' >Let's Talk</a>
         </div>
       </div>
