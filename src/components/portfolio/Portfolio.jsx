@@ -3,7 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
-// import IMG4 from '../../assets/portfolio4.jpg'
+import IMG4 from '../../assets/portfolio4.jpg'
 // import IMG5 from '../../assets/portfolio5.png'
 // import IMG6 from '../../assets/portfolio6.jpg'
 
@@ -31,13 +31,13 @@ const data = [
     github: 'https://github.com/ChrisCarteno/deployPractice',
     demo: 'https://www.u8gamers.com/'
   },
-  // {
-  //   id:4,
-  //   image: IMG4,
-  //   title: 'Maintaining tasks and tracking progress',
-  //   github: 'https://github.com',
-  //   demo: 'https://github.com'
-  // },
+  {
+    id:4,
+    image: IMG4,
+    title: 'Eccomerce Website using Stripe',
+    github: 'https://github.com/ChrisCarteno/ecommerce',
+    demo: 'https://ecommerce-niocdnl9n-chriscarteno.vercel.app/'
+  },
   // {
   //   id:5,
   //   image: IMG5,
