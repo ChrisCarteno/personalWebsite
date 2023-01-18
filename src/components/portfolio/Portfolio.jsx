@@ -4,7 +4,7 @@ import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
-// import IMG5 from '../../assets/portfolio5.png'
+import IMG5 from '../../assets/portfolio5.jpg'
 // import IMG6 from '../../assets/portfolio6.jpg'
 
 // Do Not Use The Images In Production
@@ -37,7 +37,13 @@ const data = [
     title: 'Eccomerce Website using Stripe',
     github: 'https://github.com/ChrisCarteno/ecommerce',
     demo: 'https://ecommerce-niocdnl9n-chriscarteno.vercel.app/'
-  },
+  },{
+    id:5,
+    image: IMG5,
+    title: 'Website made for Vanessa Acevedo\'s makeup website',
+    github: 'https://github.com/ChrisCarteno/',
+    demo: 'https://glambyvanessa.com/'
+  }
   // {
   //   id:5,
   //   image: IMG5,
