@@ -31,10 +31,6 @@ const Services = () => {
               <BsCheck2 size="28" className='service__list-icon'/>
               <p>Mobile Friendly</p>
             </li>
-            <li>
-              <BsCheck2 size="28" className='service__list-icon'/>
-              <p>Animated UI</p>
-            </li>
           </ul>
         </article>
         {/* End of UI/UX */}
