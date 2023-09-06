@@ -20,7 +20,7 @@ const data = [
   {
     id:2,
     image: IMG2,
-    title: 'A website where you can save your notes.',
+    title: 'A website where you can save your notes. currently down for to Herokus pricing changes',
     github: 'https://github.com/ChrisCarteno/noteIt',
     demo: 'https://nooteit.herokuapp.com/'
   },
@@ -28,7 +28,7 @@ const data = [
     id:3,
     image: IMG3,
     title: 'Website of my Friends',
-    github: 'https://github.com/ChrisCarteno/deployPractice',
+    github: 'https://github.com/ChrisCarteno/u8gamers',
     demo: 'https://www.u8gamers.com/'
   },
   {
