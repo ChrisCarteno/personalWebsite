@@ -1,10 +1,11 @@
 import React from 'react'
 import './about.css'
 // import Me from '../../assets/me-about.jpg'
-import ME1 from '../../assets/me-about1.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {BsFolderCheck} from 'react-icons/bs'
+
+let ME1 = 'https://media.licdn.com/dms/image/D5603AQE58d7poxP1wA/profile-displayphoto-shrink_200_200/0/1718271044721?e=2147483647&v=beta&t=c5tN767wk1mD25hrDvTY9KWrWNYydNIoTdodGjOl_Mo'
 
 const About = () => {
   return (
@@ -24,19 +25,19 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>3+ Years Coding</small>
+              <small>8+ Years Coding</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>Several Happy Clients</small>
+              <small>Only Happy Clients</small>
             </article>
 
             <article className='about__card'>
               <BsFolderCheck className='about__icon'/>
               <h5>projects</h5>
-              <small>over 10 projects finished</small>
+              <small>Several projects finished and in progress</small>
             </article>
           </div>
 
